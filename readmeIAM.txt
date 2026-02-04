@@ -1,5 +1,3 @@
-# aws-project-2-iam-security-baseline
-AWS IAM Security Baseline using Admin, Dev& Audit roles with MFA
 # AWS Project 2 — IAM Security Baseline (Admin / Dev / Audit)
 
 ## Overview
